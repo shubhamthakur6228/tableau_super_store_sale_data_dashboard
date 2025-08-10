@@ -1,7 +1,9 @@
 Description:
+
 The Super Store Sale Data Dashboard provides a comprehensive view of sales, profits, and product performance across different categories, sub-categories, and regions.
 
 It integrates multiple visualizations to analyze store performance from different perspectives:
+
 1)Packed Bubble Chart – Shows product categories or sub-categories proportionally by sales or profit to quickly identify top-performing and low-performing items.
 
 2)Bar Chart (Calculation1) – Displays count-based classification into profit-making, loss-making, and neutral sales transactions.
@@ -25,6 +27,7 @@ It integrates multiple visualizations to analyze store performance from differen
 11)Filters & Legends – Includes filters for profit range, product name group, sales range, sub-category, product name, top N products, and category to enable interactive analysis.
 
 * Key Insights Enabled by This Dashboard:
+  
 .Identify best-selling and low-performing products.
 
 .Compare profitability across different product categories.
