@@ -26,8 +26,11 @@ It integrates multiple visualizations to analyze store performance from differen
 
 * Key Insights Enabled by This Dashboard:
 .Identify best-selling and low-performing products.
+
 .Compare profitability across different product categories.
+
 .Analyze regional sales performance using the map and heatmap.
+
 .Discover sales trends and product popularity via the word cloud.
 
 Understand the relationship between sales volume and quantity.
